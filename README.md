@@ -1,5 +1,7 @@
 # create-course
 
+[![skills.sh](https://skills.sh/b/samisoltani/create-course-skill)](https://skills.sh/samisoltani/create-course-skill)
+
 A Claude Code skill that builds a complete interactive course — curriculum,
 lesson scripts, interactive demos, visual components, and audio/video — on
 any topic you give it.
